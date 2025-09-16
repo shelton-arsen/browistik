@@ -352,7 +352,7 @@
                     <div class="footer-social">
                         <a href="https://instagram.com/browistika__" class="social-link" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://t.me/sheltonkaa" class="social-link" target="_blank"><i class="fab fa-telegram"></i></a>
-                        <a href="#" class="social-link" target="_blank"><i class="fab fa-viber"></i></a>
+                        <a href="viber://chat?number=%2B375291801121" class="social-link" target="_blank"><i class="fab fa-viber"></i></a>
                     </div>
                 </div>
             </div>
