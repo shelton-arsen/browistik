@@ -43,7 +43,7 @@
                     <a href="#home" class="nav-link">Главная</a>
                     <a href="#services" class="nav-link">Услуги</a>
                     <a href="#gallery" class="nav-link">Галерея</a>
-                    <a href="#about" class="nav-link">О мне</a>
+                    <a href="#about" class="nav-link">Обо мне</a>
                     <a href="#contact" class="nav-link">Контакты</a>
                 </div>
                 <div class="nav-contact">
@@ -70,7 +70,7 @@
         <a href="#home" class="nav-link">Главная</a>
         <a href="#services" class="nav-link">Услуги</a>
         <a href="#gallery" class="nav-link">Галерея</a>
-        <a href="#about" class="nav-link">О мне</a>
+        <a href="#about" class="nav-link">Обо мне</a>
         <a href="#contact" class="nav-link">Контакты</a>
     </div>
 
@@ -133,7 +133,7 @@
                     </div>
                     <h3 class="service-title">Архитектура бровей</h3>
                     <p class="service-description">
-                        Создание идеальной формы бровей с учетом особенностей вашего лица. Коррекция, окрашивание и укладка.
+                        Создание идеальной формы бровей с учетом особенностей вашего лица.
                     </p>
                     <div class="service-price">20 руб</div>
                 </div>
